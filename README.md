@@ -9,11 +9,6 @@
 
 I am a **Senior Java Developer** with strong experience building **enterprise-grade backend systems** within **private organizational repositories**.
 
-I am currently:
-- Expanding into **frontend development with Angular**
-- Actively building **AI & Python skills**
-- Working towards **AI-enabled full-stack application development**
-
 ---
 
 ## Core Technical Expertise
