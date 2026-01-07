@@ -22,7 +22,7 @@
 - **Performance Optimization and Monitoring**
 - **CI/CD, Git, Agile/Scrum**
 
-- 🔗 Most professional work exists in **private enterprise repositories**.
+> 🔗 Most professional work exists in **private enterprise repositories**.
 
 ---
 
@@ -33,7 +33,7 @@
 - Component-based UI architecture
 - Backend API integration
  
-- 🔗 Most professional work exists in **private enterprise repositories**.
+> 🔗 Most professional work exists in **private enterprise repositories**.
 ---
 
 ## AI & Python
