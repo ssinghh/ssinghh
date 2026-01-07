@@ -19,6 +19,8 @@
 - **Scalable & Secure System Design**
 - **Performance Optimization**
 - **CI/CD, Git, Agile/Scrum**
+- **Certified AWS Solution Architect Associate**
+- **Terraform and Docker**
 
 > Most professional work exists in **private enterprise repositories**.
 
@@ -43,8 +45,8 @@
 - **Computer Vision, Model Deployment & Capstone Projects**
 
  Learning & practice repositories:
-- 🔗 [https://github.com/ssinghh/Angular_Code_Learn](https://github.com/ssinghh/ai_rag_prj)
-- 🔗 [https://github.com/ssinghh/APIReactClient](https://github.com/ssinghh/Financial_Mentor_AI_Agent)
+- 🔗 [https://github.com/ssinghh/ai_rag_prj](https://github.com/ssinghh/ai_rag_prj)
+- 🔗 [https://github.com/ssinghh/Financial_Mentor_AI_Agent](https://github.com/ssinghh/Financial_Mentor_AI_Agent)
 ---
  
 
