@@ -14,15 +14,15 @@
 ### Backend & Enterprise Systems
 - **Java (Core & Advanced)**
 - **Spring / Spring Boot**
-- **RESTful APIs**
+- **RESTful APIs and GraphQL APIs**
 - **Microservices Architecture**
 - **Scalable & Secure System Design**
-- **Performance Optimization**
-- **CI/CD, Git, Agile/Scrum**
 - **Certified AWS Solution Architect Associate**
 - **Terraform and Docker**
+- **Performance Optimization and Monitoring**
+- **CI/CD, Git, Agile/Scrum**
 
-> Most professional work exists in **private enterprise repositories**.
+- 🔗 Most professional work exists in **private enterprise repositories**.
 
 ---
 
@@ -33,7 +33,7 @@
 - Component-based UI architecture
 - Backend API integration
  
-> Most professional work exists in **private enterprise repositories**.
+- 🔗 Most professional work exists in **private enterprise repositories**.
 ---
 
 ## AI & Python
