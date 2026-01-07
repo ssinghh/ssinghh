@@ -5,9 +5,7 @@
 ![Spring](https://img.shields.io/badge/Spring%20Boot-Enterprise-brightgreen)
 ![Angular](https://img.shields.io/badge/Angular-Learning-red)
 ![Python](https://img.shields.io/badge/Python-AI%20Focused-blue)
-![AI](https://img.shields.io/badge/AI-Actively%20Learning-purple)
-
-I am a **Senior Java Developer** with strong experience building **enterprise-grade backend systems** within **private organizational repositories**.
+![AI](https://img.shields.io/badge/AI-Actively%20Learning-purple) 
 
 ---
 
