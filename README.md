@@ -1,5 +1,5 @@
 # Hi, I’m Shubhanjali Singh (@ssinghh) 
-### Senior Java Developer | Full-Stack Developer | AI & Python Enthusiast and Learner
+### Senior Java Developer | Full-Stack Developer | AI & Python Enthusiast
 
 ![Java](https://img.shields.io/badge/Java-Expert-orange)
 ![Spring](https://img.shields.io/badge/Spring%20Boot-Enterprise-brightgreen)
