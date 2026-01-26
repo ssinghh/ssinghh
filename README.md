@@ -12,18 +12,13 @@
 - **Microservices Architecture** 
 - **Certified AWS Solution Architect Associate**
 - **Performance Optimization and Monitoring**
-- **CI/CD, Git, Docker, Terraform and Agile/Scrum**
-
-> 🔗 Most professional work exists in **private enterprise repositories**.
-
+- **CI/CD, Git, Docker, Terraform and Agile/Scrum** 
 ---
 
 ## Frontend Development 
 
 - **Angular and TypeScript** 
 - Backend API integration
- 
-> 🔗 Most professional work exists in **private enterprise repositories**.
 ---
 
 ## AI & Python
@@ -33,10 +28,6 @@
 - **Deep Learning (Neural Networks, CNNs)**
 - **Natural Language Processing with Generative AI**
 - **Computer Vision, Model Deployment & Capstone Projects**
-
- Learning & practice repositories:
-- 🔗 [https://github.com/ssinghh/ai_rag_prj](https://github.com/ssinghh/ai_rag_prj)
-- 🔗 [https://github.com/ssinghh/Financial_Mentor_AI_Agent](https://github.com/ssinghh/Financial_Mentor_AI_Agent)
 ---
  
 
