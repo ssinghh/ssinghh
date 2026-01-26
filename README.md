@@ -1,5 +1,5 @@
 # Hi, I’m Shubhanjali Singh (@ssinghh) 
-### Senior Java Developer | Full-Stack Developer | AI & Python Enthusiast
+### Senior Java Developer | AI & Python Enthusiast
 
 ---
 
