@@ -15,12 +15,10 @@
 - **Java (Core & Advanced)**
 - **Spring / Spring Boot**
 - **RESTful APIs and GraphQL APIs**
-- **Microservices Architecture**
-- **Scalable & Secure System Design**
+- **Microservices Architecture** 
 - **Certified AWS Solution Architect Associate**
-- **Terraform and Docker**
 - **Performance Optimization and Monitoring**
-- **CI/CD, Git, Agile/Scrum**
+- **CI/CD, Git, Docker, Terraform and Agile/Scrum**
 
 > 🔗 Most professional work exists in **private enterprise repositories**.
 
@@ -28,9 +26,7 @@
 
 ## Frontend Development 
 
-- **Angular**
-- **TypeScript** 
-- Component-based UI architecture
+- **Angular and TypeScript** 
 - Backend API integration
  
 > 🔗 Most professional work exists in **private enterprise repositories**.
