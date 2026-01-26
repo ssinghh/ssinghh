@@ -1,12 +1,6 @@
 # Hi, I’m Shubhanjali Singh (@ssinghh) 
 ### Senior Java Developer | Full-Stack Developer | AI & Python Enthusiast
 
-![Java](https://img.shields.io/badge/Java-Expert-orange)
-![Spring](https://img.shields.io/badge/Spring%20Boot-Enterprise-brightgreen)
-![Angular](https://img.shields.io/badge/Angular-Learning-red)
-![Python](https://img.shields.io/badge/Python-AI%20Focused-blue)
-![AI](https://img.shields.io/badge/AI-Actively%20Learning-purple) 
-
 ---
 
 ## Core Technical Expertise
