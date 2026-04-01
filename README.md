@@ -1,5 +1,5 @@
 # Hi, I’m Shubhanjali Singh (@ssinghh) 
-### Senior Java Developer | AI & Python Enthusiast
+### Senior Java & AI Engineer | AWS Certified Solutions Architect
 
 ## Connect With Me
 
